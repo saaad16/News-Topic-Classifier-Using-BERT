@@ -1,0 +1,4 @@
+results/
+model_final/
+model_weights/
+__pycache__/
